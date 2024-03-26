@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World! 
+---
+I'm a frontend developer wannabe passionate about creating intuitive user experiences through code. Check my repositories to see my progress and let's collaborate for innovation! 🚀"
 
 <!--
 **mighty-mite/mighty-mite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
