@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hello World! 
 ---
 I'm a frontend developer wannabe passionate about creating intuitive user experiences through code. Check my repositories to see my progress and let's collaborate for innovation! 🚀"
