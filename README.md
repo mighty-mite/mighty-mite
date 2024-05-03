@@ -11,7 +11,8 @@
 </div>
 My skillset
 <div>
-  <img with="100" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
+  <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
+  <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
 </div>
 
 ### Hello World! 
