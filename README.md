@@ -9,7 +9,9 @@
   </a>
 </div>
 </div>
+
 ### My Frontend SkillSet
+
 <div>
 <!--   <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
   <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg"/>
