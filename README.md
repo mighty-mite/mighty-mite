@@ -9,8 +9,9 @@
   </a>
 </div>
 </div>
+My skillset
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
+  <img with="100" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 </div>
 
 ### Hello World! 
