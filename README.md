@@ -22,6 +22,8 @@ My name is Ayur! I'm a self-taught beginner frontend developer with a passion fo
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
+### My Contacts
+
 <div id="contacts" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/aiur-t-09779019b/">
