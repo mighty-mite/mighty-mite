@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+### Hello World! 
+---
+My name is Ayur! I'm a self-taught beginner frontend developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, and JavaScript. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
+
+
 ### My Frontend SkillSet
 
 <div>
@@ -16,10 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" title="Figma" **alt="Figmf" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
-
-### Hello World! 
----
-My name is Ayur! I'm a self-taught beginner frontend developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, and JavaScript. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
 
 <div id="contacts" align="center">
   <div id="badges">
