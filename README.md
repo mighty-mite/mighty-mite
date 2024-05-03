@@ -1,13 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/aiur-t-09779019b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010285038106">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
 </div>
 
 ### My Frontend SkillSet
@@ -28,6 +20,17 @@
 ### Hello World! 
 ---
 My name is Ayur! I'm a self-taught beginner frontend developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, and JavaScript. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
+
+<div id="contacts" align="center">
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/aiur-t-09779019b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100010285038106">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+</div>
 
 <!--
 **mighty-mite/mighty-mite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
