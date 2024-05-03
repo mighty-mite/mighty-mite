@@ -27,7 +27,7 @@
 
 ### Hello World! 
 ---
-I'm a frontend developer wannabe passionate about creating intuitive user experiences through code. Check my repositories to see my progress and let's collaborate for innovation! 🚀"
+My name is Ayur! I'm a self-taught beginner frontend developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, and JavaScript. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
 
 <!--
 **mighty-mite/mighty-mite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
