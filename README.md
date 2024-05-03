@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hello World! 
+### Hello, World! 
 ---
 My name is Ayur! I'm a self-taught beginner frontend developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, and JavaScript. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
 
