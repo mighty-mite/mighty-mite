@@ -24,16 +24,7 @@ I'm a frontend developer with a passion for crafting visually appealing and user
 
 ### My Contacts
 
-<div id="contacts" align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/aiur-t-09779019b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100010285038106">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-</div>
+
 
 <!--
 **mighty-mite/mighty-mite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
