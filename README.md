@@ -4,7 +4,7 @@
 
 ### Hello, World! 
 ---
-I'm a frontend developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, and JavaScript. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
+I'm a web developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, JavaScript and PHP. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
 
 
 ### My Frontend SkillSet
