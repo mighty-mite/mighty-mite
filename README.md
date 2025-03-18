@@ -7,7 +7,7 @@
 I'm a web developer with a passion for crafting visually appealing and user-friendly websites. Through self-guided learning and hands-on projects, I'm steadily honing my skills in HTML, CSS, JavaScript and PHP. Join me on my journey of growth and discovery as I dive deeper into the world of frontend development! 🚀"
 
 
-### My Frontend SkillSet
+### My SkillSet
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
